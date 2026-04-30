@@ -2,7 +2,7 @@
 
 A static site built with **GitHub Pages** and pure **Markdown**, exploring WebAssembly applications.
 
-🔗 **Live site:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+🔗 **Live site:** https://bishalrai.github.io/wasm-showcase/
 
 ## Files
 
