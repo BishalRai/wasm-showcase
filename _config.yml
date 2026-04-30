@@ -1,0 +1,8 @@
+title: WASM Showcase
+description: A small static site exploring WebAssembly applications, built with GitHub Pages and pure Markdown.
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
