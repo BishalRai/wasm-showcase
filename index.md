@@ -19,15 +19,11 @@ This page itself is written in `index.md` and rendered by Jekyll on GitHub Pages
 
 ## 🎯 Goals
 
-- [x]  Set up a GitHub Pages repository
-
-- [x]  Write content in pure Markdown  
-
-- [x]  Use a handful of GFM features    
-
-- [x]  Link to interesting WASM demos
-
-- [ ]  Add a custom domain *(optional)*
+- [x] Set up a GitHub Pages repository
+- [x] Write content in pure Markdown  
+- [x] Use a handful of GFM features    
+- [x] Link to interesting WASM demos
+- [ ] Add a custom domain *(optional)*
 
 ---
 
