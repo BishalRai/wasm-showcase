@@ -4,12 +4,13 @@ title: Learning Diary
 
 # 📓 Learning Diary — GitHub Pages Assignment
 
-**Author:** *(your name)*
-**Course:** *(course code / name)*
-**Live site:** **https://YOUR-USERNAME.github.io/YOUR-REPO/**
-**Repository:** **https://github.com/YOUR-USERNAME/YOUR-REPO**
+**Author:** **Bishal Rai**
 
-> Replace `YOUR-USERNAME` and `YOUR-REPO` above before submitting. If you used a `username.github.io` repo (user site), the URL is just `https://YOUR-USERNAME.github.io/`.
+**Course:** **Cloud Services**
+
+**Live site:** [**wsam-showcase**](https://bishalrai.github.io/wasm-showcase/)
+
+**Repository:** [**Github-repo**](https://github.com/BishalRai/wasm-showcase)
 
 ---
 
@@ -95,9 +96,6 @@ Default Jekyll on GitHub Pages doesn't render Mermaid the same way the GitHub we
 Initially used absolute paths like `/screenshots/foo.png`. These broke on the project-page URL (`username.github.io/repo/`).
 **Fix:** switched to relative paths like `./screenshots/foo.png`.
 
-> **Screenshot 4 — error → fix**
->
-> ![404 error and fix](./screenshots/04-error-and-fix.png)
 
 ---
 
